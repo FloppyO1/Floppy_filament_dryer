@@ -1,0 +1,8 @@
+../Core/Src/MyCode/buttons.c:28:6:initButtons	1
+../Core/Src/MyCode/buttons.c:39:9:getButtonState	4
+../Core/Src/MyCode/buttons.c:75:6:BUTTONS_resetButtonState	4
+../Core/Src/MyCode/buttons.c:85:6:BUTTONS_shortPressAction	46
+../Core/Src/MyCode/buttons.c:315:6:BUTTONS_longPressAction	21
+../Core/Src/MyCode/buttons.c:50:9:BUTTONS_tick	10
+../Core/Src/MyCode/buttons.c:502:6:HAL_GPIO_EXTI_Rising_Callback	8
+../Core/Src/MyCode/buttons.c:524:6:HAL_GPIO_EXTI_Falling_Callback	5

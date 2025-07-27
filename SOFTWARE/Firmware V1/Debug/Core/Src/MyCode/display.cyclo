@@ -1,0 +1,9 @@
+../Core/Src/MyCode/display.c:148:9:calculateMinute	1
+../Core/Src/MyCode/display.c:152:9:calculateHours	1
+../Core/Src/MyCode/display.c:156:9:DISPLAY_intermittentState	2
+../Core/Src/MyCode/display.c:193:6:DISPLAY_PrintStrSmall	1
+../Core/Src/MyCode/display.c:198:6:DISPLAY_PrintStrMedium	1
+../Core/Src/MyCode/display.c:203:6:DISPLAY_PrintStrLarge	1
+../Core/Src/MyCode/display.c:19:6:DISPLAY_drawMenu	15
+../Core/Src/MyCode/display.c:208:6:DISPLAY_PrintStrHuge	1
+../Core/Src/MyCode/display.c:168:6:DISPLAY_PrintFloatSmall	1

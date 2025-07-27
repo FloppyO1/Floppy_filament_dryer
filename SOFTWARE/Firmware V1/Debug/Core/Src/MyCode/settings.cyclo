@@ -1,0 +1,6 @@
+../Core/Src/MyCode/settings.c:55:6:floatToBytes	1
+../Core/Src/MyCode/settings.c:59:7:bytesToFloat	1
+../Core/Src/MyCode/settings.c:65:9:read_byte_eeprom	1
+../Core/Src/MyCode/settings.c:35:6:loadSettingsFromEeprom	4
+../Core/Src/MyCode/settings.c:71:6:write_byte_eeprom	1
+../Core/Src/MyCode/settings.c:16:6:storeSettingsToEeprom	4

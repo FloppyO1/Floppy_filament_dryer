@@ -1,0 +1,2 @@
+../Core/Src/Libraries/temperature.c:27:10:getADCValue	16	static
+../Core/Src/Libraries/temperature.c:14:7:getTemperature	8	static

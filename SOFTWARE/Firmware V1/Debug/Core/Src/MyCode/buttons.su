@@ -1,0 +1,8 @@
+../Core/Src/MyCode/buttons.c:28:6:initButtons	0	static
+../Core/Src/MyCode/buttons.c:39:9:getButtonState	0	static
+../Core/Src/MyCode/buttons.c:75:6:BUTTONS_resetButtonState	0	static
+../Core/Src/MyCode/buttons.c:85:6:BUTTONS_shortPressAction	16	static
+../Core/Src/MyCode/buttons.c:315:6:BUTTONS_longPressAction	8	static
+../Core/Src/MyCode/buttons.c:50:9:BUTTONS_tick	24	static
+../Core/Src/MyCode/buttons.c:502:6:HAL_GPIO_EXTI_Rising_Callback	32	static
+../Core/Src/MyCode/buttons.c:524:6:HAL_GPIO_EXTI_Falling_Callback	16	static

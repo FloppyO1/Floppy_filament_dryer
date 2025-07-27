@@ -1,0 +1,2 @@
+../Core/Src/MyCode/buzzer.c:12:6:BUZZER_shortPressBeep	1
+../Core/Src/MyCode/buzzer.c:19:6:BUZZER_longPressBeep	1

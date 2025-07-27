@@ -1,0 +1,56 @@
+/*
+ * config.h
+ *
+ *  Created on: Jul 10, 2025
+ *      Author: Filippo Castellan
+ */
+
+#ifndef INC_MYCODE_CONFIG_H_
+#define INC_MYCODE_CONFIG_H_
+
+
+
+/* GENERAL */
+#define LED_ALIVE_FLASHING_PERIOD 500
+
+/* MATERIALS */
+#define TEMPERATURE_STEP 5
+#define MINIMUM_TEMPERATURE 20
+#define MAXIMUM_TEMPERATURE 95
+
+/* TIMER */
+#define MINUTES_STEP 10
+#define MAXIMUM_HOURS 120
+
+
+/* DISPLAY */
+#define DISPLAY_FPS 10
+#define STATUS_CHANGE_TIME 5000
+
+/* TEMP READ */
+#define NTC_NOMINAL 100000
+#define RBALANCE 100000.0
+#define RESOLUTION 4096.0
+#define BETA 3950.0
+#define TEMPERATURE_READ_INTERVAL 200
+
+/* PID AUTOCALIBRATION */
+#define MAX_READINGS_NUMBER 2000
+#define MAX_MIN_FINDER_WINDOW 20
+#define INITIAL_OSCILLATION_TO_SKIP 1
+#define READINGS_PERIOD 2000
+#define PID_AUTOCAL_CYCLES 8
+#define PID_AUTOCAL_TEMPERATURE 70.0f
+#define PID_AUTOTUNE_HYSTERESIS 2.0f
+
+/* EEPROM */
+#define FIRST_TIME_EEPROM_VALUE 79	// change this value if you want to re-inizialize eeprom (ranfe: 0-255)
+
+/* BUTTONS */
+#define SHORT_PRESS_TIME 50
+#define LONG_PRESS_TIME 1000
+
+/* BUZZER */
+#define LOUDNESS_PERCENTAGE 50
+
+#endif /* INC_MYCODE_CONFIG_H_ */

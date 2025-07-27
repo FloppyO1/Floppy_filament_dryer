@@ -1,0 +1,6 @@
+../Core/Src/MyCode/materials.c:15:6:MATERIAL_initMaterials	16	static
+../Core/Src/MyCode/materials.c:68:9:MATERIAL_getNextMaterial	8	static
+../Core/Src/MyCode/materials.c:74:6:MATERIAL_setTargetTemp	0	static
+../Core/Src/MyCode/materials.c:78:9:MATERIAL_getPrevMaterial	8	static
+../Core/Src/MyCode/materials.c:84:6:MATERIAL_getMaterialName	8	static
+../Core/Src/MyCode/materials.c:88:9:MATERIAL_getMaterialTargetTemp	0	static
