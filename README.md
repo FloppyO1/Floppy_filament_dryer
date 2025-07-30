@@ -1,4 +1,6 @@
 # Floppy Filament Dryer
+<img src="media/P1300287.JPG" alt="Descrizione 1" width="350"/>
+<img src="media/P1300403%20editata.jpg" alt="Descrizione 2" width="350"/>
 
 This project is a controller board designed for a small electric oven, transforming it into a filament dryer for 3D printing. The controller allows precise temperature management, helping keep your filament dry and ready to use.
 
